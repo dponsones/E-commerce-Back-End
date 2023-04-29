@@ -15,3 +15,5 @@ Run `npm start`.
 Here is a link to a video of the functionality tested in Insomnia: https://drive.google.com/file/d/1AQ4w1TFv8vAh308T46F7780ucPRnKX_k/view?usp=sharing
 
 ## GitHub
+
+https://github.com/dponsones/E-commerce-Back-End.git
